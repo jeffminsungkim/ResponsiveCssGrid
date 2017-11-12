@@ -1,5 +1,7 @@
 # Responsive Single Page Website
 
+![](https://media.giphy.com/media/xUOxf2jDbUYLSI8SDS/giphy.gif)
+
 ## Brief Introduction
 
 The purpose of starting this project is to build a **mobile-first** single page website using the CSS Grid. In this exercise, I will use modern techniques including relative em units, media queries, and even a little flex.
