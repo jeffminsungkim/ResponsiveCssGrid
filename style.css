@@ -71,7 +71,86 @@ z-index: z-index is where The higher it is the closer to you it is.
   padding-bottom: 0;
 }
 
-#showcase .content-wrap {
+#showcase .content-wrap,
+#section-a .content-wrap {
   padding: 0 1.5em;
 }
+
+/* Section A */
+
+#section-a {
+  background: #eaeaea;
+  color: #333;
+  padding-bottom: 2em;
+}
+
+/* Section B */
+
+#section-b {
+  padding: 2em 1em 1em;
+}
+
+#section-b ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#section-b li {
+  margin-bottm: 1em;
+  background: #fff;
+  color: #333;
+}
+
+.card-content {
+  padding: 1.5em;
+}
+
+/* Section C */
+
+#section-c {
+  background: #fff;
+  color: #333;
+  padding: 2em;
+}
+
+/* Section D */
+
+#section-d .box {
+  color: #fff;
+  padding: 2em;
+}
+
+/* Instead of adding extra classes in HTML, use a peseudo class called first-child. 
+   first-child is going to take the first box.
+*/
+#section-d .box:first-child {
+  background: #2690d4;
+}
+
+/* Footer */
+
+#main-footer {
+  padding: 2em;
+  background: #000;
+  color: #fff;
+  text-align: center;
+}
+
+#main-footer a {
+  color: #2690d4;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
