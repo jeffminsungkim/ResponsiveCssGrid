@@ -1,6 +1,6 @@
 # Responsive Single Page Website
 
-![](https://media.giphy.com/media/xUOxf2jDbUYLSI8SDS/giphy.gif)
+![](demo.gif)
 
 ## Brief Introduction
 
